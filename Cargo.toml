@@ -6,6 +6,7 @@ edition = "2018"
 license = "MIT"
 readme = "README.md"
 repository = "http://github.com/CodeChain-io/rust-token-generator"
+description = "It returns an unsed token"
 
 [dependencies]
 limited-table = "0.1.0"
